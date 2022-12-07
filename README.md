@@ -11,7 +11,7 @@ npm i -D nodemon (for local testing)
 
 # Run it, run it, run it
 
-Add port and API Key into a .env file
+Add port (5000 by default) and API Key into a .env file
 
 in a terminal
 npm run dev
