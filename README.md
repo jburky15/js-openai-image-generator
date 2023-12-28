@@ -6,8 +6,9 @@ Use your own prompt, pick a size [small (256x256), medium(512x512), large(1024x1
 
 # node_modules
 
-npm i express openai dotenv
-npm i -D nodemon (for local testing)
+npm install will install the following packages:
+express openai dotenv
+nodemon (for local testing)
 
 # Run it, run it, run it
 
